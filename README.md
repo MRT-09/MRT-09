@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MRT-09
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning web/mobile app development
+- 😄 Pronouns: he / him
