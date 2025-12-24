@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MRT-09
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web/mobile app development
+- 🌱 I’m currently learning a lot of things
 - 😄 Pronouns: he / him
